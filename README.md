@@ -1,5 +1,5 @@
 <div align="center">
-<h1>🚀 ScaleKV: Memory-Efficient Visual Autoregressive Modeling with Scale-Aware KV Cache Compression</h1>
+<h1>ScaleKV: Memory-Efficient Visual Autoregressive Modeling with Scale-Aware KV Cache Compression</h1>
 
   <div align="center">
   <a href="https://opensource.org/license/mit-0">
