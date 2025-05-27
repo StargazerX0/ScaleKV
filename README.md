@@ -39,6 +39,7 @@ We propose Scale-Aware KV Cache (ScaleKV), a novel KV Cache compression framewor
 
 
 ## 🔥Updates
+* 🔥 **May 26, 2025**: Our paper is available now!
 * 🔥 **May 25, 2025**: Code repo is released! Arxiv paper will come soon!
 
 ## 🔧  Installation:
