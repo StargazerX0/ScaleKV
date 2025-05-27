@@ -5,7 +5,7 @@
   <a href="https://opensource.org/license/mit-0">
     <img alt="MIT" src="https://img.shields.io/badge/License-MIT-4E94CE.svg">
   </a>
-  <a href="https://">
+  <a href="https://arxiv.org/abs/2505.19602">
     <img src="https://img.shields.io/badge/Paper-Arxiv-darkred.svg" alt="Paper">
   </a>
   <a href="https://">
