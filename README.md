@@ -8,9 +8,6 @@
   <a href="https://arxiv.org/abs/2505.19602">
     <img src="https://img.shields.io/badge/Paper-Arxiv-darkred.svg" alt="Paper">
   </a>
-  <a href="https://">
-    <img src="https://img.shields.io/badge/Project-Page-924E7D.svg" alt="Project">
-  </a>
 </div>
 </div>
 
