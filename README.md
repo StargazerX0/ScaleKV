@@ -128,5 +128,10 @@ Thanks to [Infinity](https://github.com/FoundationVision/Infinity) for their won
 ## Citation
 If our research assists your work, please give us a star ⭐ or cite us using:
 ```
-
+@article{li2025scalekv,
+  title={Memory-Efficient Visual Autoregressive Modeling with Scale-Aware KV Cache Compression},
+  author={Li, Kunjun and Chen, Zigeng and Yang, Cheng-Yen and Hwang, Jenq-Neng},
+  journal={arXiv preprint arXiv:2505.19602},
+  year={2025}
+}
 ```
