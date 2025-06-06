@@ -42,7 +42,7 @@ def main():
         bf16=1,
         enable_model_cache=1,
         cfg = 3,
-        tau = 0.5,
+        tau = 1.0,
         h_div_w = 1/1,
         enable_positive_prompt=0,
         split = None
