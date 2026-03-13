@@ -12,7 +12,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from tools.run_infinity import load_tokenizer, load_visual_tokenizer, load_transformer, gen_one_img, dynamic_resolution_h_w, h_div_w_templates
 
-from enable_scale_kv_8b import enable_scale_kv
+from enable_scale_kv_2b import enable_scale_kv
 
 def main():
     
